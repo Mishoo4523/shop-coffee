@@ -20,10 +20,4 @@ if(q1=="coffee"){
     console.log("Okay have a good day");
 }
 
-// const x=8;
-
-
-// for(i=0; i<x; i++){
-//     console.log(i);
-// }
 
